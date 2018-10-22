@@ -3,7 +3,7 @@ import React from 'react'
 export default props => (
     <footer className='main-footer'>
         <strong>
-            Copyright &copy; 2
+            Copyright &copy; 2018
             <a href="#" target='_blank'> My money</a>.
         </strong>
     </footer>
